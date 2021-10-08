@@ -1,0 +1,45 @@
+body{
+  
+}
+
+.header{
+    margin: 2% 5% 4% 5%;
+}
+.bannerx
+{
+    color: #fff;
+    background-image: url("images/ban.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.contactme{
+    margin: 5em;
+}
+
+.listbox{
+    margin-top: 0%;   
+    margin-bottom: 2%; 
+
+}
+
+.list{
+    margin: 2% auto;
+}
+
+.newsearch{
+    margin-top: 6%;
+    margin-bottom: 1%;
+}
+
+.nav-item{
+    padding-left: 3%;
+    letter-spacing: 2px;
+}
+
+.footer{
+  
+}
+
